@@ -1,0 +1,14 @@
+{
+  "name": "cxmerge",
+  "version": "0.0.1",
+  "description": "A small utility to combine tailwind classes.",
+  "main": "index.js",
+  "repository": "https://github.com/mawburn/cxmerge",
+  "author": "mawburn <mawburn7@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "clsx": "^2.0.0",
+    "tailwind-merge": "^2.2.0"
+  }
+}
